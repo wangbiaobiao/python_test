@@ -1,1 +1,1 @@
-print "xxxxxx"
+print ("xxxxxx")
